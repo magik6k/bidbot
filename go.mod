@@ -14,7 +14,6 @@ require (
 	github.com/filecoin-project/go-jsonrpc v0.1.4-0.20210217175800-45ea43ac2bec
 	github.com/filecoin-project/go-state-types v0.1.1-0.20210915140513-d354ccf10379
 	github.com/filecoin-project/lotus v1.13.0
-	github.com/golang/snappy v0.0.3-0.20201103224600-674baa8c7fc3 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/ipfs/go-cid v0.1.0
 	github.com/ipfs/go-datastore v0.4.6
@@ -35,8 +34,8 @@ require (
 	github.com/multiformats/go-multihash v0.0.16
 	github.com/oklog/ulid/v2 v2.0.2
 	github.com/shirou/gopsutil v2.20.5+incompatible // indirect
-	github.com/spf13/cobra v1.1.3
-	github.com/spf13/viper v1.8.1
+	github.com/spf13/cobra v1.3.0
+	github.com/spf13/viper v1.10.0
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/goleveldb v1.0.1-0.20210305035536-64b5b1c73954 // indirect
